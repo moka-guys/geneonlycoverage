@@ -1,4 +1,4 @@
-#python2
+# python2
 #
 # arguments:
 # Total coverage output filename without extension
