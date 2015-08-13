@@ -1,3 +1,5 @@
+# python2
+
 import sys
 
 with open(sys.argv[1] + '.csv') as coverageall:
