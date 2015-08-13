@@ -1,0 +1,568 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 177,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "geneonlycoverage.py",
+			"settings":
+			{
+				"buffer_size": 1083,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "removeheader.py",
+			"settings":
+			{
+				"buffer_size": 586,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 183.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"git",
+				"GitGutter: Compare Against HEAD"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"syncin",
+				"Package Syncing: Define Sync Folder"
+			],
+			[
+				"di",
+				"FileDiffs: Menu"
+			],
+			[
+				"line",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"filed",
+				"FileDiffs: Menu"
+			],
+			[
+				"file",
+				"FileDiffs: Menu"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"q",
+				"QuickCal: Show Calendar"
+			],
+			[
+				"raw",
+				"Raw Line Edit: Toggle"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"qui",
+				"QuickCal: Show Calendar"
+			],
+			[
+				"qu",
+				"QuickCal: Next month"
+			],
+			[
+				"calen",
+				"QuickCal: Show Calendar"
+			],
+			[
+				"packa	",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 457.0
+	},
+	"console":
+	{
+		"height": 487.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/wook/Documents/repos/geneonlycoverage"
+	],
+	"file_history":
+	[
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/geneonly/NGS78571_GAAACC_Pan77.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/geneonly.sh",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/geneonlycoverage.py",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/removal.sh",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/filenames.txt",
+		"/media/MokaNAS/projects/150811_coverage/filenames.py",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/removeheader.py",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/geneonly/NGS43a_H_141105A_ClinEx_5_1220738_114365.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/geneonly/NGS43a_H_141105A_ClinEx_1_1407200_135136.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/NGS93631_AAAAAA_Pan77.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/genecoverage/geneonly/NGS50778_TAGCTT_Pan77.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/cat.sh",
+		"/media/MokaNAS/projects/150811_coverage/coverage.sublime-project",
+		"/home/wook/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43a_H_141105A_ClinEx_5_1220738_114365_S_ACAGTG_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43a_H_141105A_ClinEx_2_1413179_138850_S_CGATGT_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43a_H_141105A_ClinEx_1_1407200_135136_S_ATCACG_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS43a_H_141105A_ClinEx_1_1407200_135136.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS43a_H_141105A_ClinEx_5_1220738_114365.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS43a_H_141105A_ClinEx_2_1413179_138850.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS43a_H_141105A_ClinEx_1_1407200_135136_S_ATCACG_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS43a_H_141105A_ClinEx_2_1413179_138850_S_CGATGT_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS91989_AAAAAA_Pan77_S1_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS93154_AAAAAA_Pan77_S1_Exon_GeneLevelRDsummary.csv",
+		"/media/wook/F0A9-48E7/raw/NGS43a_H_141105A_ClinEx_5_1220738_114365_S_ACAGTG_Exon_GeneLevelRDsummary.csv",
+		"/media/wook/F0A9-48E7/raw/NGS43a_H_141105A_ClinEx_2_1413179_138850_S_CGATGT_Exon_GeneLevelRDsummary.csv",
+		"/media/wook/F0A9-48E7/raw/NGS43a_H_141105A_ClinEx_1_1407200_135136_S_ATCACG_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43a_H_141105A_ClinEx_8_HapMap_NA12878_S_ACTTGA_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43b_H_141105A_ClinEx_3_1410288_137123_S_TTAGGC_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43b_H_141105A_ClinEx_4_1410316_137137_S_TGACCA_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43b_H_141105A_ClinEx_6_1119023_101208_S_GCCAAT_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS43b_H_141105A_ClinEx_7_1320463_129108_S_CAGATC_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS64514_GCCAAT_Pan77_S6_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS66280_CAGATC_Pan77_S6_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/NGS50778_TAGCTT_Pan77_S1_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS50778_TAGCTT_Pan77_S1_Exon_GeneLevelR.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/test/H.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/test/NGS43a_H_141105A_ClinEx_1_1407200_135136_S_ATCACG_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/raw/add/NGS96531_CAAAAG_Pan77_S2_Exon_GeneLevelRDsummary.csv",
+		"/home/wook/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+		"/media/MokaNAS/projects/150811_coverage/filenames.txt",
+		"/media/MokaNAS/projects/150811_coverage/102770_Pan77.csv",
+		"/media/MokaNAS/projects/150811_coverage/NGS102770_TTAGGC_Pan77_S5_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150811_coverage/addfilenamefield.py",
+		"/home/wook/Downloads/validating/go/compare/0019b.tsv.csv",
+		"/media/MokaNAS/projects/150811_coverage/NGS100877_Pan77.csv",
+		"/media/MokaNAS/projects/150811_coverage/NGS100877_AAAAAA_Pan77_S1_Exon_GeneLevelRDsummary.csv",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0036.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0039.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0042.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0044.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0053.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0082.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0066.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0083.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0090.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0125.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0151.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0160.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0169.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0190a.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0204.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0218.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0228.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0190b.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0019.vcf",
+		"/media/MokaNAS/projects/150417_Alamut/CGD137123_Alamut_I-unannotated.txt",
+		"/media/MokaNAS/projects/150417_Alamut/CGD137123_Alamut_I-alamut.txt",
+		"/media/MokaNAS/projects/150417_Alamut/CGD135136_Alamut_I-unannotated.txt",
+		"/media/MokaNAS/projects/150417_Alamut/CGD135136_Alamut_I-alamut.txt",
+		"/media/MokaNAS/projects/150417_Alamut/CGD114365_B_Alamut_I.txt",
+		"/media/MokaNAS/projects/150417_Alamut/CGD114365_Alamut_I.txt",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/euformatics/0013.vcf",
+		"/home/wook/Downloads/validating/go/compare/a-alt.txt",
+		"/home/wook/Downloads/validating/go/compare/b-alt.txt",
+		"/home/wook/Downloads/validating/go/0019s.vcf",
+		"/home/wook/Downloads/validating/go/0019.vcf",
+		"/home/wook/Downloads/validating/go/0019os.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/0019-EXOME-EQA_NEQAS_sorted_markdup_realigned_recal.recal.combined.filtered_NGS_2014_part2.vcf",
+		"/home/wook/Downloads/validating/go/compare/0019a.tsv.csv",
+		"/home/wook/Downloads/validating/go/merged.vcf",
+		"/home/wook/Downloads/ngseqa/analysis/2014/partII/EQA_2014_partII.vcf",
+		"/home/wook/Downloads/ngseqa/analysis/2014/partII/analysis_notes.txt",
+		"/home/wook/Downloads/gel/sample.csv",
+		"/home/wook/Downloads/gel/QC.csv",
+		"/home/wook/Downloads/gel/sample_010715.csv",
+		"/home/wook/Downloads/gel/QC_010715.csv",
+		"/home/wook/Downloads/validating/go/compare/b.txt",
+		"/home/wook/Downloads/validating/go/compare/a.txt",
+		"/home/wook/Downloads/validating/comparisonsummary",
+		"/home/wook/Downloads/MultiAllele_VCFsplit.pl",
+		"/home/wook/Downloads/1438085143_-_wordpress.sql",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-18d712/0019-ROI_ensembl_Genomic_coding_2bp_nohead_2bp_filtered_tab_ref_merged.bed",
+		"/home/wook/Downloads/validating/go/orig/0013.vcf",
+		"/home/wook/Documents/repos/ngseqa/analysis/2014/partII/analysis_notes.txt",
+		"/home/wook/Documents/repos/ngseqa/analysis/2014/partII/files/018.vcf",
+		"/media/MokaNAS/projects/150701 EQA/validating/split.sh",
+		"/media/MokaNAS/projects/150701 EQA/validating/files2.txt",
+		"/home/wook/Downloads/merged.vcf",
+		"/media/MokaNAS/projects/150701 EQA/validating/input.txt",
+		"/media/MokaNAS/projects/150701 EQA/validating/go/go.sh",
+		"/home/wook/.cache/.fr-qZz0Wr/001.vcf",
+		"/media/MokaNAS/projects/150701 EQA/validating/go/001.vcf",
+		"/media/MokaNAS/projects/150701 EQA/validating/merged.vcf",
+		"/media/MokaNAS/projects/150701 EQA/validating/merged.vcf.tsv",
+		"/home/wook/.config/libreoffice/4/user/registrymodifications.xcu",
+		"/media/MokaNAS/projects/150701 EQA/validating/001.vcf",
+		"/home/wook/Downloads/stickieserv.html",
+		"/media/MokaNAS/projects/141127_Agilent_Clinical_Research_Exome/Bed files/S06588914_TargetGeneSymbols.txt",
+		"/media/wook/USB/ACGS.txt",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-7318e0/0036 Transcript.txt.html",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-b6ada6/0013-REFORMAT+-2_EQA-EMQN_Copy1_Mutation_Report_curated_4-12-14.vcf",
+		"/home/wook/.cache/.fr-9fvw4e/0036-Lab_0036.genelist.txt",
+		"/media/MokaNAS/projects/150701 EQA/vcfs/0042_VCF.vcf",
+		"/media/MokaNAS/projects/150701 EQA/wetransfer-7f3e12/0013 VCF.html",
+		"/media/MokaNAS/projects/150701 EQA/vcfs/0013_VCF.vcf",
+		"/media/MokaNAS/projects/150626 CrossFTP queues/150626 properties of both transferred files.txt",
+		"/home/wook/Downloads/1.sh",
+		"/home/wook/Downloads/2.sh",
+		"/tmp/sublime-sftp-browse-1433522497/athena/home/ryank/TestMokaNGSPipeline/indelvariantcall.sh",
+		"/home/wook/.config/sublime-text-3/Packages/User/sftp_servers/athena",
+		"/tmp/sublime-sftp-browse-1433505609/athena/home/ryank/Scripts/coverage_clin_important_genes.sh",
+		"/home/wook/.config/sublime-text-3/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/wook/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/wook/.cache/.fr-9RbNiY/relay/README.TXT",
+		"/home/wook/.cache/.fr-mR0w6P/cgdave-webfilebrowser-2c87613/README.md",
+		"/home/wook/.cache/.fr-pF6q9j/elfinder-2.0-rc1/README.md",
+		"/home/wook/Downloads/elfinder-2.0-rc1/elfinder.html"
+	],
+	"find":
+	{
+		"height": 45.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"geneonly/",
+			"summary NGS",
+			"\\t",
+			".csv",
+			"1306",
+			"213091",
+			"MTERF4",
+			"cat ",
+			"\\t",
+			".csv",
+			"  ",
+			"./removeheader.py",
+			"removeheader",
+			"Participant ID,Sample ID,Clinic ID,Clinic Sample Type,Clinic Sample DateTime,Laboratory ID,Laboratory Sample ID,Laboratory Sample Volume,Laboratory Method,Laboratory Remaining Volume Banked,GMC Rack ID,GMC Sample Dispatch Date,GMC Sample Consignment Number,GMC Rack Well\\n",
+			"Sample ID,Test Result Type,Test Result DateTime,Test Result Value,Participant ID,Laboratory ID\\n",
+			"ID",
+			"25604565",
+			"1/2",
+			"25604565",
+			"49004901",
+			"97782069",
+			";",
+			"\\n",
+			"wook",
+			"\\n",
+			"\\t",
+			"\\n",
+			"recoverylist",
+			"</code>",
+			"<code>",
+			"NSFL1C",
+			"+w",
+			"intron",
+			"\n+",
+			"imager.2d_rackid_1.ID",
+			", ",
+			"C5KHCACXX",
+			"141205_SN700310R_0520_Bc5khcacxx",
+			"C5KHCACXX",
+			"NGS47a_1_140938_CW_CM",
+			"M",
+			" ",
+			"140818_D00505_0037_BH9LTHADXX",
+			"9606",
+			"NM_012130",
+			"CLCN6",
+			"9606",
+			"NM_001456",
+			"RNA"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"summary geneonly/NGS",
+			" summary geneonly/NGS",
+			" ",
+			"",
+			"cat add/",
+			" ",
+			"",
+			" ",
+			"python removeheader.py",
+			"./removeheader",
+			"",
+			";\\n",
+			"; ",
+			"; \\n",
+			"",
+			"\\nwook",
+			".vcf\\n",
+			" merged.vcf > \\n",
+			" merged.vcf > \\n ",
+			"\\nvcf-subset -c ",
+			"\\n",
+			"\\nvcf-subset -c \n",
+			"\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 177,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								176,
+								176
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "geneonlycoverage.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1083,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1082,
+								1082
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "removeheader.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 586,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								586,
+								586
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 382.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 118.0
+	},
+	"pinned_build_system": "",
+	"project": "genecov.sublime-project",
+	"replace":
+	{
+		"height": 86.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ali",
+				"~/Downloads/Aligned2RefSeqGene"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 397.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
